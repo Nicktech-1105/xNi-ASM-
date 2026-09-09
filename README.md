@@ -1,7 +1,7 @@
 # xNi Assembly Language + SDK 
 
 
-###this is the official repository for xNi, this repository contains the following elements:
+### this is the official repository for xNi, this repository contains the following elements:
 
 ->**28 example programs** for xNi
 ->**a transpiler** (xNi/xNi binaries -> x86/ARM-64/ARM-32)
