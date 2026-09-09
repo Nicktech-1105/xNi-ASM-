@@ -1,9 +1,9 @@
-# xNi
+# xNi Assembly Language (xNI AL)
 this is the official repository for xNi, this repository contains the following elements:
 
 programs for xNI
-a transpiler (xNI > x86/ARM-64/ARM-32)
-an assembler (xNiASM > xNi binaries) and dissaembler (xNi binaries > xNiASM)
+a transpiler (xNi/xNi binaries -> x86/ARM-64/ARM-32)
+an assembler (xNiASM/Nichrome -> xNi binaries) and dissaembler (xNi binaries -> xNiASM)
 a bootloader (28oot)
 some abstraction layers
 CPU and hardware desings
